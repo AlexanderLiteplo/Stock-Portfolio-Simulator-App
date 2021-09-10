@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: ui.Main
+Class-Path: apiguardian-api-1.0.0.jar json-20200518.jar opentest4j-1.1.1
+ .jar junit-platform-commons-1.4.2.jar junit-jupiter-api-5.4.2.jar junit
+ -jupiter-params-5.4.2.jar junit-jupiter-5.4.2.jar junit-platform-engine
+ -1.4.2.jar junit-jupiter-engine-5.4.2.jar jsoup-1.13.1.jar
+
