@@ -1,0 +1,3 @@
+# Stock-Portfolio-Simulator-App
+I recently developed a stock tracking desktop app using Java that simulates a real life stock portfolio. In order to allow users to see current stock prices and historical data, I taught myself HTML parsing and learned and utilized the Java library jsoup. To accurately store and retrieve the users data, I implemented a persistence system using the Java library JSON. In order to process and analyze the user’s stock portfolio data, I had to create multiple custom data structures such as the overarching “portfolio” data structures that can sort stocks according to four different comparators. 
+
