@@ -1,4 +1,7 @@
 # Stock-Portfolio-Simulator-App
+
+<img width="1440" alt="Screen Shot 2021-10-04 at 7 51 30 PM" src="https://user-images.githubusercontent.com/65365446/135952692-c9c45f14-ed89-405d-b0b4-b2919344a672.png">
+
 This is a stock tracking app that simulates a real life stock portfolio. In order to allow users to see current stock prices and historical data, I taught myself basic HTML parsing and learned and utilized the Java library jsoup. To accurately store and retrieve the users data, I implemented a persistence system using the Java library JSON. In order to process and analyze the user’s stock portfolio data, I had to create multiple custom data structures such as the overarching “portfolio” data structures that can sort stocks according to four different comparators. 
 # Why did I make this?
 I created this project as a christmas present for my father. I noticed that he was using an excel spreadsheet to track the stocks over his multiple portfolios in one place. In the excel spreadsheet he would weekly or daily update each individual stock price to the current one in order to calculate his overall return and summarize his stock data. My goal was to allow him to automate this process, and be able to just add his stocks with the quantity and price he bought them add, and have the price update automatically, all while allowing him to see useful statistics about his portfolio.
@@ -11,5 +14,5 @@ This project was very fun to make, however I was not able to create a downloadab
 - Do not make your classes dependant on each other in such a way that a change to one will break another
 - Keep things simple, it is better to make an app that does one useful thing really well, than one hundred things terribly
 
-<img width="1440" alt="Screen Shot 2021-10-04 at 7 51 30 PM" src="https://user-images.githubusercontent.com/65365446/135952692-c9c45f14-ed89-405d-b0b4-b2919344a672.png">
+
 
