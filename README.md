@@ -10,3 +10,6 @@ This project was very fun to make, however I was not able to create a downloadab
 - When designing an app only build one function at a time, and test it thoroughly after it is built
 - Do not make your classes dependant on each other in such a way that a change to one will break another
 - Keep things simple, it is better to make an app that does one useful thing really well, than one hundred things terribly
+
+<img width="1440" alt="Screen Shot 2021-10-04 at 7 51 30 PM" src="https://user-images.githubusercontent.com/65365446/135952692-c9c45f14-ed89-405d-b0b4-b2919344a672.png">
+
